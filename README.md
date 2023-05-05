@@ -1,3 +1,3 @@
 # Mark-CMPM120
 
-## Public repository for CMPM120 course at UCSC.
+### Public repository for CMPM120 course at UCSC.
